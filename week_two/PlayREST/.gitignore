@@ -1,0 +1,36 @@
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Test files
+
+accessingdataneo4j.db
+dependency-reduced-pom.xml
+out
+README.html
+
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Other #
+project/project
+project/target
+logs/

@@ -1,0 +1,13 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# APIs in EmployeeController
+GET     /employee              controllers.EmployeeController.listEmployees()
+GET     /employee/:id          controllers.EmployeeController.retrieve(id:Int)
+POST    /employee              controllers.EmployeeController.create()
+PUT     /employee              controllers.EmployeeController.update()
+DELETE  /employee/:id          controllers.EmployeeController.delete(id:Int)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
