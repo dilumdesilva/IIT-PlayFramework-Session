@@ -1,6 +1,6 @@
 ![cover](other_resources/cover.png)
 
-Play as backend is a series of 03 sessions that I have conducted for the second year students () of Informatics
+Play as backend is a three week session series that I have conducted for the second year students of Informatics
 
 ## [Week One](https://github.com/dilum1995/IIT-PlayFramework-Session/tree/main/week_one)
 
