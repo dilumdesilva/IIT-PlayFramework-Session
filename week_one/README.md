@@ -2,7 +2,7 @@
 
 Play as backend is a series of 03 sessions that I have conducted for the second year students () of Informatics
 
-## [Week One](https://github.com/dilum1995/IIT-PlayFramework-Session/tree/main/week_one)
+## Week One
 
 - Intro to ‘frontend vs backend’ concepts, technologies and opprtunities.
 - Full-Stack development.
@@ -11,17 +11,16 @@ Play as backend is a series of 03 sessions that I have conducted for the second 
 - What is MVC pattern / architecture.
 - Play setup and base play project structure.
 
-## [Week Two](https://github.com/dilum1995/IIT-PlayFramework-Session/tree/main/week_two)
+## Week Two
 
 - What the heck is REST APIs?
 - Concepts of REST APIs.
 - Developing REST APIs with play (coding).
 - Usage of tools like postman.
 
-## [Week Three](https://github.com/dilum1995/IIT-PlayFramework-Session/tree/main/week_three)
+## Week Three
 
 - Combining Play with a frontend (angular) and exposing an API ( coding ).
-- Pros and Cons of cofigurations.
 
 ### For further knowledge
 
