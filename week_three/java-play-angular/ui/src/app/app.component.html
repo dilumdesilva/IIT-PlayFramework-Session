@@ -1,0 +1,30 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center;">
+  <h1>Welcome to {{title}}!</h1>
+  <nav>
+    <a [routerLink]="['java']">
+      <img width="300" height="300" src="../assets/java.webp">
+    </a>
+    <a [routerLink]="['play']">
+      <img width="300" height="300" src="../assets/play.svg">
+    </a>
+    <a [routerLink]="['angular']">
+      <img width="300" height="300" src="../assets/angular.svg">
+    </a>
+  </nav>
+  <router-outlet></router-outlet>
+  <div>
+    <h2>Check GitHub repo for more information</h2>
+    <h3>
+      <a target="_blank" rel="noopener" href="https://github.com/dilum1995/IIT-PlayFramework-Session">
+        java-play-angular-session
+      </a>
+    </h3>
+  </div>
+
+  <div class="post-request-test">
+    <h3>Sample Post Request</h3>
+    <button (click)="postData()">send a post req</button>
+    <h5>Response: {{postRequestResponse}}</h5>
+  </div>
+</div>
