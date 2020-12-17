@@ -1,5 +1,3 @@
-[![MIT License][license-badge]][LICENSE]
-
 # Java Play Angular Boilerplate
 
 > Use play framework to develop the web application backend/services and frontend using Angular CLI, all in a totally integrated workflow and single unified console. This approach will deliver perfect development experience without CORS hassle. 
